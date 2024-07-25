@@ -6,8 +6,6 @@ It looks like the formatting for the badges didn't come out correctly in reStruc
    :target: https://www.python.org/downloads/release/python-360/
 .. image:: https://img.shields.io/badge/License-MIT-yellow.svg
    :target: https://opensource.org/licenses/MIT
-.. image:: http://hits.dwyl.io/ashhadulislam/sentiment-analyser-lib.svg
-   :target: http://hits.dwyl.io/ashhadulislam/sentiment-analyser-lib
 .. image:: https://img.shields.io/pypi/dm/sentimentanalyser.svg
    :target: https://img.shields.io/pypi/dm/sentimentanalyser.svg
 .. image:: https://www.codefactor.io/repository/github/ashhadulislam/sentiment-analyser-lib/badge/master
