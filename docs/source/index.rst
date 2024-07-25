@@ -1,3 +1,5 @@
+It looks like the formatting for the badges didn't come out correctly in reStructuredText (rst). Here's the corrected rst format for the badges and the rest of the content:
+
 ```rst
 .. image:: https://badge.fury.io/py/sentimentanalyser.svg
    :target: https://badge.fury.io/py/sentimentanalyser
