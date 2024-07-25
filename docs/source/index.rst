@@ -131,4 +131,3 @@ If you are using this library in your research please cite the following papers:
 - Dr. Khelil Kassoul
 - Dr. Ala Al-Fuqaha
 - Dr. Abdesselam Bouzerdoum
-```
