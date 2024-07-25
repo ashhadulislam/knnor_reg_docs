@@ -1,6 +1,3 @@
-It looks like the formatting for the badges didn't come out correctly in reStructuredText (rst). Here's the corrected rst format for the badges and the rest of the content:
-
-```rst
 
 .. image:: https://img.shields.io/badge/python-3.6-blue.svg
    :target: https://www.python.org/downloads/release/python-360/
