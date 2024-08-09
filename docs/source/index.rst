@@ -111,14 +111,14 @@ Example implementation using a CSV file. Make sure the CSV file is in the same l
 Go to the ``example`` folder to see a Jupyter notebook with the implementation.
 
 
-### Effect of selecting different threshold
+###   Effect of selecting different threshold
 
 We show the effect of selecting different thresholds on our algorithm. We select the dataset "mortgage.csv" and demonstrate the results with various parameter values: number of neighbors (k) set to 4, proportion of minority points to be used set to 0.6, and the number of bins set to 6. The two figures illustrate the impact of different threshold values on the oversampling process.
 
 In the below figure, we present histograms of the "tradeCurrencies" attribute with different threshold values. As the threshold increases from 39 to 100, we observe changes in the frequency distribution of the bins, indicating how the selection of different threshold values influences the oversampling results.
 
 
-.. image:: hist.drawio.pdf
+.. image:: hist.drawio.png
     :alt: Histograms of the "tradeCurrencies" attribute with different threshold values (39, 55, 75, 100). Dataset: mortgage.csv, Neighbors: 4, Proportion: 0.6, Bins: 6.
     :width: 300px
     :align: center
@@ -126,7 +126,7 @@ In the below figure, we present histograms of the "tradeCurrencies" attribute wi
 
 In the below figure, we display scatter plots of "1MonthCDRate" versus "1Y-CMaturityRate" for the same dataset, with the same parameter values but varying threshold values. The scatter plots visually represent how the algorithm modifies the data points' distribution as the threshold value changes, ensuring the integrity and representativeness of the synthetic samples generated.
 
-.. image:: scatter.drawio.pdf
+.. image:: scatter.drawio.png
     :alt: Scatter plots of "1MonthCDRate" vs "1Y-CMaturityRate" with different threshold values (39, 55, 75, 100). Dataset: mortgage.csv, Neighbors: 4, Proportion: 0.6, Bins: 6.
     :width: 300px
     :align: center
