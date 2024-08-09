@@ -111,7 +111,7 @@ Example implementation using a CSV file. Make sure the CSV file is in the same l
 Go to the ``example`` folder to see a Jupyter notebook with the implementation.
 
 
-Effect of selecting different threshold
+### Effect of selecting different threshold
 
 We show the effect of selecting different thresholds on our algorithm. We select the dataset "mortgage.csv" and demonstrate the results with various parameter values: number of neighbors (k) set to 4, proportion of minority points to be used set to 0.6, and the number of bins set to 6. The two figures illustrate the impact of different threshold values on the oversampling process.
 
@@ -131,7 +131,7 @@ In the below figure, we display scatter plots of "1MonthCDRate" versus "1Y-CMatu
     :width: 300px
     :align: center
  
- 
+
 As observed in the figures above, as the threshold increases, the number of samples in the rarer range rises, aligning more closely with the majority range.
 
 
